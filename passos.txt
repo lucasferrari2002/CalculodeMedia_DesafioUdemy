@@ -1,0 +1,26 @@
+Criar um ambiente (python3 -m venv env)
+Para entrar na pasta (cd env)
+Ativar o ambiente (.\Scripts\activate)
+Instalar o Django ( pip install django)
+guardar as dependencias (pip freeze > requeriments.txt)
+------------------------------------------------------------
+
+Criar o primeiro projeto (django-admin startproject projeto1)
+
+Fazer configurações do settings.py(arquivos estaticos e templates)
+
+para subir o server (python manage.py runserver)
+
+Arquitetura MVP - Models, views
+
+Criação de aplicativo dentro do projeto Django(python manage.py startapp app1)
+
+Configuramos urls(projeto1 e app1)
+
+Criamos uma view (index)
+
+Criamos a pasta de templates
+
+Arquitetura MVP - Models, views
+
+
